@@ -171,8 +171,6 @@ export default function App() {
           </View>
         </View>
       </Modal>
-
-      <Text style={styles.toDoText}>TextHere</Text>
       <View style={styles.header}>
         <TouchableOpacity onPress={work}>
           <Text
